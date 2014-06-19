@@ -3,16 +3,12 @@ Greetings.
 Here you can find diptrace component and pattern file for all of the
 tag-connect connectors.
 
-Some of the objects are already created by anonymous individuals and they
-appear to be in the public domain and distributed by the manufacturer.
+I have re-designed the patterns because some of the existing versions
+online fail to meet the datasheet specs.  As the designed are fairly
+consistent across the series it was trivial to expand to cover all.
 
-I have stored these files in the original-inputs directory.
+Faithfulness to the datasheet is the primary requirement for this project.
 
-I have re-designed the patterns because they all fail to meet the requirements
-of the datasheet.  Specifically, they ALL fail to remove the pad from the
-paste layer.
 
-I'll endeavor to make the libraries I provide as accurate to the datasheets
-as I can.
 
 Red
