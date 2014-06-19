@@ -6,5 +6,13 @@ tag-connect connectors.
 Some of the objects are already created by anonymous individuals and they
 appear to be in the public domain and distributed by the manufacturer.
 
-The additional patterns and components in this library as designed by
-Redvers Davies are hereby released into the public domain.
+I have stored these files in the original-inputs directory.
+
+I have re-designed the patterns because they all fail to meet the requirements
+of the datasheet.  Specifically, they ALL fail to remove the pad from the
+paste layer.
+
+I'll endeavor to make the libraries I provide as accurate to the datasheets
+as I can.
+
+Red
